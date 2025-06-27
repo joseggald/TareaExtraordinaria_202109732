@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1751020077393",
+      "name": "Juan Pérez",
+      "email": "juan@email.com",
+      "password": "$2b$12$fYxBDj8xQ2CS/t8wQ7w1xOS793pdbZ7YtTkji1YXMzkuz7koE0SNu",
+      "createdAt": "2025-06-27T10:27:57.393Z"
+    }
+  ]
+}
